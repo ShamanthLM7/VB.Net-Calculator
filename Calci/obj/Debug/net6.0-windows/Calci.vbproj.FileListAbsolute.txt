@@ -1,0 +1,17 @@
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\bin\Debug\net6.0-windows\Calci.exe
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\bin\Debug\net6.0-windows\Calci.deps.json
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\bin\Debug\net6.0-windows\Calci.runtimeconfig.json
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\bin\Debug\net6.0-windows\Calci.dll
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\bin\Debug\net6.0-windows\Calci.pdb
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.vbproj.AssemblyReference.cache
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.Form1.resources
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.vbproj.GenerateResource.cache
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.AssemblyInfoInputs.cache
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.AssemblyInfo.vb
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.vbproj.CoreCompileInputs.cache
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.dll
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\refint\Calci.dll
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.pdb
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\Calci.genruntimeconfig.cache
+C:\Users\Shamanth Naik\source\repos\Calci\Calci\obj\Debug\net6.0-windows\ref\Calci.dll
